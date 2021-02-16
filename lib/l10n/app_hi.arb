@@ -1,0 +1,5 @@
+{
+    "language": "मानक हिन्दी",
+    "helloWorld": "नमस्ते दुनिया!",
+    "hello": "नमस्ते {username}"
+}
