@@ -9,9 +9,9 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  intl: ^0.17.0
+  intl: ^0.16.0
 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.0
 
   # state management
   provider: ^4.3.3
